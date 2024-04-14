@@ -15,7 +15,7 @@ import datetime age calculator
         Your age= 18
         
 # import calendar leap year
-leap year or not leap year.. 
+leap year or not leap year
 
  2021
  
@@ -93,6 +93,7 @@ isleap
 weekday
           
           0
+          
 today weekday
 
           4
