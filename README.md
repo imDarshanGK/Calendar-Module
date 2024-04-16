@@ -5,6 +5,8 @@ import datetime
           2024
           4
           15
+
+          
 # import datetime age calculator
 import datetime age calculator
 
@@ -13,11 +15,12 @@ import datetime age calculator
         
         Enter your birth year:2005
         Your age= 18
+
         
 # import calendar leap year
 leap year or not leap year
 
- 2021
+2021
  
     Enter Year:2021
     2021 is not leap year
@@ -34,11 +37,13 @@ leap year or not leap year
       Enter Year:2024
       2024 is leap year
       
+      
 # import time localtime
 
           1712843908.4584417
           time.struct_time(tm_year=2024, tm_mon=4, tm_mday=11, tm_hour=19, tm_min=28, tm_sec=28, tm_wday=3, tm_yday=102, tm_isdst=0)
           Thu Apr 11 19:28:28 2024
+          
           
 # import calendar as c and import datetime as d      
 calendar 2024
