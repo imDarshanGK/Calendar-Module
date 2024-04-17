@@ -111,3 +111,14 @@ day
 month name
           
           April
+
+# import datetime hour
+import datetime
+
+          2024-04-17 12:54:35.258663
+          2024
+          4
+          17
+          12
+          35
+          54
