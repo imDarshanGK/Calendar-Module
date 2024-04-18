@@ -122,3 +122,14 @@ import datetime
           12
           35
           54
+
+# import datetime hour minute second
+import datetime
+
+          2024-04-18 20:32:46.582328
+          2024
+          4
+          18
+          20
+          46
+          32
