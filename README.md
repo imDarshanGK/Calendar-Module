@@ -142,3 +142,18 @@ from datetime import*
           2024
           4
           19
+
+# Age calculator
+Age calculator
+
+Example 1:
+
+          Enter your birth year: 2003
+          Your age: 21
+Example 2:
+
+          Enter your birth year: 2007
+          Your age: 17
+          
+          
+          
